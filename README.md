@@ -31,7 +31,8 @@ The complete research paper outlining the problem, methodology, experimentation,
 
 Developed by :
 Israth Chowdhury
-Feel free to connect or reach out for collaboration!
+
+Feel free to connect!
 [chowdhuryisrath32@gmail.com]
 
 ---
